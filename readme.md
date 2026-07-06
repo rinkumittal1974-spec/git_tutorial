@@ -11,3 +11,6 @@ Now I am fixing performance issue.
 Added cache and removed cursor in sql
 
 Now I will test vscode for source control
+
+Now I am fixing performance issues
+
